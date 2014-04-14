@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite package="backtype.storm" name="local-state-test">
+        <testcase name="test-local-state" classname="backtype.storm.local-state-test">
+        </testcase>
+    </testsuite>
+</testsuites>
